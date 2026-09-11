@@ -4,7 +4,7 @@
 
 ## Разделы
 
-### 01. Binomial Hypothesis Testing
+### Statistical test: comparison of the critical region and the p-value
 Правосторонний биномиальный критерий для проверки гипотезы о вероятности успеха.
 
 В разделе:
@@ -15,4 +15,4 @@
 - визуализация распределения, критической области и наблюдаемого значения;
 - итоговое решение: `reject H0` / `do not reject H0`.
 
-Папка: [`01-binomial-hypothesis-testing`](./01-binomial-hypothesis-testing/)
+Папка: [`statistical test: comparison of the critical region and the p-value`](./statistical%20test%3A%20comparison%20of%20the%20critical%20region%20and%20the%20p-value/)
